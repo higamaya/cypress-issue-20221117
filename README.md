@@ -32,3 +32,7 @@ Cypress hangs when wrapping an object containing circular references.
 * Google Chrome 107.0.5304.107 (Official Build) (64-bit)
 * Microsoft Edge 107.0.1418.42 (Official build) (64-bit)
 * Mozilla Firefox 107.0 (64-bit)
+
+## Reported
+
+https://github.com/cypress-io/cypress/issues/24715
