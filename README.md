@@ -4,7 +4,7 @@
 
 Cypress hangs when wrapping an object containing circular references.
 
-## Steps to reproduce this issue
+## Steps to reproduce
 
 1. Clone this repo.
 
